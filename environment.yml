@@ -1,0 +1,8 @@
+name: gp-sensitivity
+channels:
+  - conda-forge
+dependencies:
+  - gammapy
+  - uproot
+  - matplotlib
+  - numpy
